@@ -1,0 +1,23 @@
+{
+  "token": "",
+
+  "prefix": "+",
+
+  "openrouter_api_key": "",
+
+  "bot": {
+    "name": "Mon bot",
+    "description": "Un bot Discord multi-fonctions",
+    "avatar": "https://example.com/avatar.png",
+    "banner": "https://example.com/banner.png"
+  },
+
+  "owners": [1397790804075876473],
+  "admins": [1386083716446814318],
+
+  "presence": {
+    "type": "game",
+    "text": "👑 Bot actif | +help",
+    "status": "online"
+  }
+}
